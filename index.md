@@ -1,4 +1,4 @@
-![Website Logo](images/logo.png)
+<img src = "images/logo.png" width ="250")
 
 ## Welcome to our Github Page
 
