@@ -1,4 +1,4 @@
-<img src = "images/logo.png" width ="250")
+<img src = "images/logo.png" width ="250">
 
 ## Welcome to our Github Page
 
